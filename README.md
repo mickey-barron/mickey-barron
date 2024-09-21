@@ -1,5 +1,5 @@
 # 👋 Hello, there! I'm Mickey!
-🧑‍🔬 I'm a developer and scientist at the intersection of chemistry, biology, and coding<br>🔭 I’m currently working on a data management and visualization app<br>🌱 I’m currently learning Rust<br>💬 Ask me about organic chemistry<br>⚡ Fun fact: I have been coding for over half my life (12 years now!)
+🧑‍🔬 I'm a developer and scientist at the intersection of chemistry, biology, and coding<br>🔭 I’m currently working on a data management and visualization app<br>🌱 I’m currently learning Rust<br>💬 Ask me about organic chemistry<br>⚡ Fun fact: I have been coding for over half my life (14 years now!)
 
 
 ## 🌐 Socials:
